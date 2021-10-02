@@ -1,5 +1,5 @@
 <h1 align="center">
-Recriação - Interface Discord
+Clone - Interface Discord
 </h1>
 
 <p align="center">Discord Clone (partial) for study purposes.</p>
